@@ -127,7 +127,7 @@ export default function Navbar() {
                     onClick={() => setMenuOpen(false)} // close menu on link click
                   >
                     {item}
-                    <span className="text-xl font-bold">+</span>
+                    <span className="text-xl font-bold"></span>
                   </Link>
                 )
               )}

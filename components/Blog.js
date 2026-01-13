@@ -3,15 +3,8 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import {
-  MapPin,
-  Bed,
-  Bath,
-  Ruler,
-  Heart,
-  Plus,
+  
   ArrowUpRight,
-  Camera,
-  Videotape,
   User,
   Pen,
   Calendar,
